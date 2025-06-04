@@ -1,2 +1,2 @@
 2.0.4
-https://drive.google.com/uc?export=download&id=1tyfMSUaDZTdEh7FH3TayqPV6pcWK_C59
+https://github.com/ngphthinh/version-learn-vocabulary/releases/download/v2.0.3/learn-vocabulary-2.0.jar
