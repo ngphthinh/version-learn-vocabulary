@@ -1,2 +1,2 @@
-2.0.4
-https://github.com/ngphthinh/version-learn-vocabulary/releases/download/v2.0.3/learn-vocabulary-2.0.jar
+3.1.0
+https://github.com/ngphthinh/version-learn-vocabulary/releases/download/v3.1.0/learn-vocabulary-3.1.0.jar
